@@ -1,7 +1,7 @@
+![Dublin Core™ Metadata Initiative](https://user-images.githubusercontent.com/1372136/151896818-88dd0108-ae4c-4865-b1ad-e98c8fad6260.png)
 
-![Dublin Core™ Metadata Initiative](DCMI-banner.png)
 
-The Dublin Core™ Metadata Initiative, or "DCMI", is an organization supporting innovation in metadata design and best practices across the metadata ecology. 
+**The Dublin Core™ Metadata Initiative, or "DCMI", is an organization supporting innovation in metadata design and best practices across the metadata ecology.**
 
 
 
